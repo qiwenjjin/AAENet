@@ -1,6 +1,10 @@
 # AAENet
 Code for [Adversarial Autoencoder Network for Hyperspectral Unmixing](https://ieeexplore.ieee.org/document/9565143)
 
+To train:
+python demo.py --train
+
+# Reference
 If you use the code in your research, please cite the following paper:
 
 Jin Q, Ma Y, Fan F, et al. Adversarial Autoencoder Network for Hyperspectral Unmixing[J]. IEEE Transactions on Neural Networks and Learning Systems, 2021.
